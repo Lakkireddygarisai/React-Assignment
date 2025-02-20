@@ -40,7 +40,7 @@ To get a local copy of the project, run:
 
 ```sh
 git clone https://github.com/Lakkireddygarisai/React-Assignment.git
-cd Charts
+cd React-Assignment
 ```
 
 ## Install Dependencies
