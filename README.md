@@ -89,12 +89,6 @@ yarn start
 pnpm start
 ```
 
-## Environment Variables
-Create a `.env.local` file and add necessary environment variables:
-
-```env
-NEXT_PUBLIC_API_URL=your_api_url_here
-```
 
 ## Additional Scripts
 - `lint` - Run ESLint
